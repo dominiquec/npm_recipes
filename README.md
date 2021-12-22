@@ -12,5 +12,5 @@ To create `npm_dmz`:
 - [Nginx Proxy Manager](https://nginxproxymanager.com/)
 - [WordPress](https://wordpress.org)
 - [WikiJS](https://js.wiki/)
-- [Metabase](htts://metabase.com)
+- [Metabase](https://metabase.com)
 - [Airbyte](https://airbyte.io/)
